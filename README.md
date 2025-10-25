@@ -37,5 +37,5 @@ That’s it! 🎉
 ---
 
 ## Author
-** Gadari Karthikeyan **  
+**Gadari Karthikeyan**  
 ⭐ Feel free to fork or star this project!
