@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
-.cont_bg{
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblChKrMKQE92Kkh4Mj05l1M313P5AOIhNCA&s");
+.contbg{
+background-image: url("https://www.superherotoystore.com/cdn/shop/articles/captain-america-marvel-comics_1200x.webp?v=1696315590");
 height:100vh;
 background-size:cover;
 }
